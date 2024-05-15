@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/techspec8/configure-ad/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
