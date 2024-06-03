@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pam, a <a href= "https://www.linkedin.com/in/siebertp1/">Customer Service and IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👩🏻‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Cloud Computing](https://github.com/techspec8/Azure-Compute/blob/main/README.md)
