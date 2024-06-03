@@ -6,6 +6,10 @@
   - [Cloud Computing](https://github.com/techspec8/Azure-Compute/blob/main/README.md)
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/techspec8/Network-and-Protocols/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/techspec8/Active-Directory)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
